@@ -6,10 +6,6 @@
 			1. Tomar asiento
 			2. Mientras que Amigo no sea presente:
 				1. Esperar en el asiento correspondiente
-		
-	3. Sino,
-		1.
-	4. 
 3. Sino, Si es para Familiar:
 	1. Si Familiar esta en casa:
 		1. 

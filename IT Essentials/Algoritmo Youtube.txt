@@ -1,0 +1,42 @@
+1. Inicio 
+2. Si tiene pc:
+	1. Encender
+	2. Doble click derecho en icono de Browser
+	3. Click en barra de navegacion
+	4. Ingrese la ruta "Youtube.com"
+	5. Digite la tecla Enter o click en icono de lupa
+	6. Click en barra de busqueda
+	7. Si, mood triste:
+		1. Ingrese nombre "Radiohead"
+	8. Sino, Si mood alegre:
+		1. Ingrese nombre "80s songs"
+	9. Sino:
+		1. Ingrese nombre "Techno house"
+3. Sino, si tiene smartphone:
+	1. Tomarlo
+	2. Si esta sucio:
+		1. Por cada lado o cara de smartphone:
+			1. Tomar un trapo
+			2. Mientras que el lado o cara este sucio:
+				1. Paso el trapo por superficie hasta que este limpia.
+	3. Desbloquearlo
+	4. Si App no descargada:
+		1. Ingrese a PlayStore
+		2. Descarge App
+	5. Buscar icono de Youtube
+	6. Ingresar a icono
+	7. Seleccionar barra de busqueda
+	8. Si, mood estudio o leer:
+		1. Ingrese nombre "Dark Synthwave"
+	9. Sino, si mood limpiar y cocina o mood ejercicios:
+		1. Ingrese nombre "Tool greatest hits"
+	10. Sino:
+		1. ingrese nombre "M83 greatest hits"
+4. Sino:
+	1. Pida prestado dispositivo
+	2. Ingrese a icono de Youtube 
+	3. Seleccionar barra de busqueda
+	4. Ingrese ramdom nombre 
+5. Click en icono de lupa para buscar
+6. Click en primer video mostrado
+7. Fin

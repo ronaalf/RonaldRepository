@@ -1,0 +1,206 @@
+Dadas las horas trabajadas de una persona y su tarifa por hora, calcular y mostrar su salario.
+
+1. Inicio
+2. Denifir Horas_Trabajadas
+3. Definir Tarifa_Por_Hora
+4. Definir Salario
+5. Mostrar "Ingrese horas trabajadas"
+6. Pedir Horas_Trabajadas
+7. Mostrar "Ingrese tarifa por hora"
+8. Pedir Tarifa_Por_Hora
+9. Salario = Horas_Trabajadas * Tarifa_Por_Hora
+10. Mostar "Su salario es de:"
+11. Mostar Salario
+12. Fin 
+
+
+Inicio
+Definir cantidad_de_notas
+Definir contador
+Definir nota
+Definir cantidad_de_aprobadas
+Definir cantidad_de_desaprobadas
+Definir promedio_total
+Definir promedio_aprobadas
+Definir promedio_desaprobadas
+Mostrar "Ingrese cantidad de notas"
+Pedir cantidad_de_notas
+contador = 1
+cantidad_de_aprobadas = 0
+cantidad_de_desaprobadas = 0
+promedio_total = 0
+promedio_aprobadas = 0
+promedio_desaprobadas = 0
+Mientras que (contador <= cantidad_de_notas) hacer:
+Mostrar "Ingrese la nota numero"
+Mostar contador
+Pedir nota
+Si (nota >= 70) entonces
+cantidad_de_aprobadas = cantidad_de_aprobadas + 1
+promedio_aprobadas = promedio_aprobadas + nota
+Sino
+cantidad_de_desaprobadas = cantidad_de_desaprobadas + 1
+promedio_desaprobadas = promedio_desaprobadas + nota
+Finsi
+promedio_total = promedio_total + nota
+Contador = contador + 1
+FinMientras
+promedio_total = promedio_total / cantidad_de_notas
+promedio_aprobadas = promedio_aprobadas + cantidad_de_aprobadas
+promedio_desaprobadas = promedio_desaprobadas + cantidad_de_desaprobadas
+Mostras "Su cantidad de notas aprobadas fue:"
+Mostrar cantidad_de_aprobadas
+Mostrar "Su cantidad de notas desaprobadas fue:"
+Mostrar cantidad_de_desaprobadas
+Mostrar "Su promedio de notas total fue:"
+Mostrar promedio total
+Mostrar "Su promedio de notas aprobadas fue:"
+Mostrar promedio_aprobadas
+Mostrar "Su promedio de notas desaprobadas fue:"
+Mostrar promedio_desaprobadas
+Fin
+
+
+
+1. Inicio 
+2. Definir precio_producto
+3. Pedir precio_producto
+4. Definir descuento
+5. Definir precio_final
+6. Si precio_producto < 100 entonces
+	1. descuento = precio_producto * 0.02
+7. Sino
+	1. descuento = precio_producto * 0.10 
+8. Finsi
+9. precio_final = precio_producto - descuento
+10. Mostrar "Precio con descuento:"
+11. Mostrar precio_final
+12. Fin
+
+
+
+1. Inicio 
+2. Definir tiempo_segundos
+3. Pedir tiempo_segundos
+4. Definir diez_minutos
+5. diez_minutos = 600
+6. Definir diferencia
+7. Si (tiempo_segundos < diez_minutos) entonces:
+	1. diferencia = diez_minutos - tiempo_segundos
+	2. Mostrar "La diferencia en segundos es:"
+	3. Mostrar diferencia
+8. Sino:
+	1. Si (tiempo_segundos > diez_minutos) entonces:
+		1. Mostrar "Mayor"
+	2. Sino:
+		1. Mostrar "Igual"
+	3. Finsi
+9. Finsi
+10. Fin
+	
+
+
+1. Inicio
+2. Definir numero_usuario
+3. Pedir numero_usuario
+4. Definir suma_total
+5. Definir contador
+6. contador = 0
+7. suma_total = 0
+8. Mientras que (contador <= numero_usuario) hacer:
+	1. suma_total = suma_total + contador	
+	2. contador = contador + 1
+9. FinMientras
+10. Mostrar suma_total
+11. Fin
+
+
+
+1. Inicio 
+2. Definir primero
+3. Definir segundo
+4. Pedir primero
+5. Pedir segundo
+6. Definir aux
+7. Si (primero > segundo) entonces:
+	1. aux = primero
+	2. primero = segundo
+	3. segundo = aux
+8. FinSi
+9. Mostrar primero + ", " + segundo
+9. Fin
+
+
+
+1. Inicio
+2. Definir velocidad_km
+3. Mostrar "Ingrese velocidad en km/h"
+4. Pedir velocidad_km
+5. velocidad_ms = (velocidad_km * 1000) / 3600
+6. Mostrar "Velocidad en m/s es:"
+7. Mostrar velocidad_ms
+8. Fin
+
+
+
+
+1. Inicio 
+2. Definir total_personas
+3. Definir contador_hombres
+4. Definir contador_mujeres
+5. total_personas = 6
+6. contador_hombres = 0
+7. contador_mujeres = 0
+8. Definir contador
+9. contador = 0
+10. Definir porcentaje_mujeres
+11. Definir porcentaje_hombres
+12. Mientras que (contador < total_personas) entonces:
+	1. Definir sexo
+	2. Mostrar "Ingrese sexo de persona"
+	3. Pedir sexo
+	4. Mientras que (sexo <> 1 y sexo <> 2) entonces:
+		1. Mostrar "No valido. Mostrar 1 para mujeres y 2 para hombres"
+		2. Pedir sexo
+	5. FinMientras
+	6. Si (sexo = 1) entonces:
+		1. contador_mujeres = contador_mujeres + 1
+	7. Sino:
+		1. contador_hombres = contador_hombres + 1
+	8. FinSi
+	9. contador = contador + 1
+13. FinMientras  
+14. porcentaje_mujeres = (contador_mujeres / total_personas) * 100
+15. porcentaje_hombres = (contador_hombres / total_personas) * 100
+16. Mostrar "Resultado"
+17. Mostrar porcentaje_mujeres + "% mujeres y " + porcentaje_hombres + "% hombres"
+18. Fin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

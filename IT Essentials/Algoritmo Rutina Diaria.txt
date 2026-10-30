@@ -1,0 +1,80 @@
+1. Inicio
+2. Si despertador on:
+	1. Tomar dispositivo
+	2. Por cada alarma encendida
+		1. Apagar alarma
+	3. Poder de vuelta dispositivo en mesa
+3. Levantarme
+4. Dirigirme al bano
+5. Si me siento sucio y anejo o si sude durante la noche:
+	1. Ingresar a la ducha
+	2. Tomar la esponja
+	3. Humedecer esponja
+	4. Llenar la esponja con jabon
+	5. Mientras siga sucio:
+		1. Frotarme con la esponja
+	6. Enjuagarme
+	7.Tomar una toalla
+	8. Si la toalla esta sucia o mojada:
+		1. Reemplazarla con una limpia y seca
+	9. Mientras siga mojado:
+		1. Frotarme con toalla
+	10. Mudarme
+6. Sino:
+	1. Lavarme la cara
+7. Dirigirme a la cocina
+8. Si me siento cansado o con sueno:
+	1. Desayunar con cafe
+9. Sino:
+	1. Desayunar con refresco de frutas
+10. Lavar los platos sucios
+11. Si desayuno completado y platos limpios:
+	1. Dirigirme nuevamente al bano
+	2. Tomar el cepillo de dientes y pasta
+	3. Por cada diente:
+		1. Poner cepillo con pasta sobre diente
+		2. Mientras diente sucio:
+			1. Restregar diente con cepillo
+	5. Enjuagarme y secarme.
+12. Sino:
+	1. Terminar desayuno y lavar los platos.
+	2. Lavarme los dientes (Paso #11)
+13. Dirigirme a mi habitacion
+14. Encender PC
+	1. Abrir Brave
+		1. Abrir Youtube
+		2. Si mood fresco y sunrise o energetico:
+			1. Reproducir background suave chill natural
+		3. Sino, si mood mistico o divertido:  
+			1. Reproducir background cyberpunk
+		4. Si volumen muy fuerte:
+			1. Disminuir volumen desde Youtube platform
+		5. Sino, si sonido muy bajo:
+			1. Subir volumen desde Youtube platform
+		6. Sino:
+			1. Dejarlo como esta
+	2. Abrir Chrome
+		1. Abrir curso progra
+		2. Mientras sean >= 8am y <= 12pm:
+			1. Estudiar y practicar
+	3. Volver a Brave
+		1. Verificar estar en Youtube
+		2. Reproducir background para cocinar
+15. Cocinar
+16. Comer
+17. Lavarme dientes
+18. Volver a PC
+19. Apagar PC
+20. Alistarme
+21. Hacer ejercicios
+22. Banarme
+23. comer
+24. Encender PC
+25. Ver una peli
+26. Apagar PC
+27. Dormir
+
+
+
+
+	

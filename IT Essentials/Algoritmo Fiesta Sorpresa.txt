@@ -1,0 +1,25 @@
+1. Inicio
+2. Si es para Amigo:
+	1. Dirigirse al centro de reunion
+	2. Si ya llegaron todos y Amigo no ha llegado:
+		1. Por cada individuo:
+			1. Tomar asiento
+			2. Mientras que Amigo no sea presente:
+				1. Esperar en el asiento correspondiente
+		
+	3. Sino,
+		1.
+	4. 
+3. Sino, Si es para Familiar:
+	1. Si Familiar esta en casa:
+		1. 
+	2. Sino:
+		1.
+
+	1. Si ya llegaron los invitados:
+		1.
+	2. Sino:
+		1.
+4. Sino:
+	1. Posponer
+5. Fin

@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Pikachu",
+        "type": "Electric",
+        "level": 54,
+        "weight_kg": 6.0,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Thunder Shock",
+            "Quick Attack",
+            "Thunderbolt",
+            "Volt Tackle"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "sp_attack": 50,
+            "sp_defense": 50,
+            "speed": 90
+        }
+    },
+    {
+        "name": "Charmander",
+        "type": "Fire",
+        "level": 8,
+        "weight_kg": 8.5,
+        "is_shiny": true,
+        "held_item": "Charcoal",
+        "skills": [
+            "Ember",
+            "Scratch",
+            "Tackle",
+            "Smokescreen"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "sp_attack": 60,
+            "sp_defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "level": 36,
+        "weight_kg": 90.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Flamethrower",
+            "Wing Attack",
+            "Slash",
+            "Dragon Rage"
+        ],
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "sp_attack": 109,
+            "sp_defense": 85,
+            "speed": 100
+        }
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "level": 36,
+        "weight_kg": 90.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Flamethrower",
+            "Wing Attack",
+            "Slash",
+            "Dragon Rage"
+        ],
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "sp_attack": 109,
+            "sp_defense": 85,
+            "speed": 100
+        }
+    },
+    {
+        "name": "Charizard",
+        "type": "Fire/Flying",
+        "level": 36,
+        "weight_kg": 90.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "Flamethrower",
+            "Wing Attack",
+            "Slash",
+            "Dragon Rage"
+        ],
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "sp_attack": 109,
+            "sp_defense": 85,
+            "speed": 100
+        }
+    },
+    {
+        "name": "ro",
+        "type": "human",
+        "level": 5896,
+        "weight_kg": 65.0,
+        "is_shiny": true,
+        "held_item": "gems",
+        "skills": [
+            "intuiton",
+            "fire",
+            "spells"
+        ],
+        "stats": {
+            "hp": 56,
+            "attack": 58,
+            "defense": 60,
+            "sp_attack": 56,
+            "sp_defense": 65,
+            "speed": 500
+        }
+    },
+    {
+        "name": "5",
+        "type": "5",
+        "level": 56,
+        "weight_kg": 5.0,
+        "is_shiny": false,
+        "held_item": "8",
+        "skills": [
+            "sdf",
+            "sdf"
+        ],
+        "stats": {
+            "hp": 9,
+            "attack": 9,
+            "defense": 6,
+            "sp_attack": 6,
+            "sp_defense": 9,
+            "speed": 6
+        }
+    },
+    {
+        "name": "fg5",
+        "type": "fg",
+        "level": 55,
+        "weight_kg": 5.5,
+        "is_shiny": false,
+        "held_item": null,
+        "skills": [
+            "55",
+            "55"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 564,
+            "defense": 654,
+            "sp_attack": 654,
+            "sp_defense": 654,
+            "speed": 6
+        }
+    }
+]

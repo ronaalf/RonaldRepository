@@ -1,0 +1,2 @@
+This is the new report.
+This text is added at the end of the file without deleting the previous one. 
